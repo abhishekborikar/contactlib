@@ -68,3 +68,6 @@ Delete Contact
 ```java
     boolean isDeleted = operation.deleteContact(display_name);
 ```
+# Happy Coding ;)
+
+<sub>Note : If any issue please post. And also if someone wants to contribute, then always welcome.</sub>
