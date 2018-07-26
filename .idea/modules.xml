@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirstLibrary.iml" filepath="$PROJECT_DIR$/FirstLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContactLibrary.iml" filepath="$PROJECT_DIR$/ContactLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/contactlib/contactlib.iml" filepath="$PROJECT_DIR$/contactlib/contactlib.iml" />
     </modules>
