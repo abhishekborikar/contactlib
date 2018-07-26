@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_list_element">15dp</dimen>
+    <dimen name="normal_font_size">18dp</dimen>
+    <dimen name="small_font_size">11dp</dimen>
+    <dimen name="pad_top_bottom">9dp</dimen>
+    <dimen name="pad_mid">3dp</dimen>
+    <dimen name="letter_img">20dp</dimen>
+</resources>
