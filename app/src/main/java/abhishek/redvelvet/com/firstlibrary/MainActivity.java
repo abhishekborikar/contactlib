@@ -70,7 +70,9 @@ public class MainActivity extends AppCompatActivity {
 //                String mail = details.getEmail(name).get(0);
                 String number = (String)((HashMap)details.getNumber(name).get(0)).get("number");
                 String type = (String)((HashMap)details.getNumber(name).get(0)).get("type");
-                //-------------------------------------
+
+
+
 
                 Toast.makeText(MainActivity.this, name+" "+number+" "+details.getWhatsAppNumber(name)+" "+type, Toast.LENGTH_SHORT).show();
             }
@@ -79,7 +81,6 @@ public class MainActivity extends AppCompatActivity {
 
         //----------------------add new contact-----------------------
         ContactDetails contactDetails = new ContactDetails(getContentResolver(),getApplicationContext());
-        contactDetails.addNewContact(name.getText().toString(),number.getText().toString());
         //------------------------------------------------------------
     }
 
