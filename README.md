@@ -1,4 +1,5 @@
 # contactlib
+[![](https://jitpack.io/v/abhishekborikar/contactlib.svg)](https://jitpack.io/#abhishekborikar/contactlib)      
 Library for Android to access and handle contacts.
 
 
